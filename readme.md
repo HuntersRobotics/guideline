@@ -5,3 +5,6 @@
 ## 国民技术M4单片机样板工程  
 - [github仓库](https://github.com/HuntersRobotics/N32H4XX_Template)
 - [先进院本地仓库](https://gitea.hunters-tech.com//HuntersRobotics/N32H4XX_Template)
+## 国民技术M7单片机样板工程
+- [github仓库](https://github.com/HuntersRobotics/N32H785XxB7EC_Template.git)
+- [先进院本地仓库](https://gitea.hunters-tech.com/HuntersRobotics/N32H785XxB7EC_Template.git)
