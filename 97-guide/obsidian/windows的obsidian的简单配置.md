@@ -13,8 +13,7 @@ https://git-scm.com/downloads/win
 
 ## 从码云下载样板仓库
 
-https://gitee.com/kaylor/obsidian-template/repository/archive/main.zip
-
+https://gitee.com/kaylor/obsidian-template
 ## 解压加载仓库即可使用
 -  AI插件需要查看设置中的插件设置，配置相应的API
 - Ctrl+P 之调出命令行，可以根据你的需求搜索需要的功能
