@@ -11,3 +11,4 @@
 ## AI Hunter板卡操作手册
 - [github](https://github.com/HuntersRobotics/ai_hunter_guideline)
 - [先进院本地](https://gitea.hunters-tech.com/HuntersRobotics/ai_hunter_guideline)
+## [ZSH配置](https://gitea.hunters-tech.com/HuntersRobotics/kaylor_zsh)
