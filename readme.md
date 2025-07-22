@@ -1,3 +1,4 @@
+## [院内本地常用软件和镜像点击这里](https://downloads.hunters-tech.com/)
 ## [git快速入门](97-guide/git/git快速入门.md)
 ## [windows的obsidian的简单配置](97-guide/obsidian/windows的obsidian的简单配置.md)
 ## [科学上网](97-guide/科学上网/科学上网.md)
