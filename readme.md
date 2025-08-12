@@ -13,3 +13,5 @@
 - [github](https://github.com/HuntersRobotics/ai_hunter_guideline)
 - [先进院本地](https://gitea.hunters-tech.com/HuntersRobotics/ai_hunter_guideline)
 ## [ZSH配置](https://gitea.hunters-tech.com/HuntersRobotics/kaylor_zsh)
+
+## [在Linux上使用Docker安装Windows](97-guide/Windows%20Setup%20On%20Linux/在Linux上使用Docker安装Windows.md)
