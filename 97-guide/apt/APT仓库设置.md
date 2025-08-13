@@ -17,5 +17,6 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/kaylor-
 ## 安装软件包
 ### LIO-SAM_MID360_ROS2
 ```bash
+sudo apt update
 sudo apt install -y libgtsam-dev libgtsam-unstable-dev liblivox-sdk2-dev ros-humble-lio-sam
 ```
