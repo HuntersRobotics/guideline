@@ -15,8 +15,8 @@ sudo apt install ros-humble-rmw-cyclonedds-cpp ros-humble-cyclonedds
 - 配置cyclonedds
 ```bash
 sudo mkdir -pv /etc/ros/dds/
-sudo touch /etc/ros/dds/dds/cyclonedds.xml
-sudo touch /etc/ros/dds/dds/service-environment.conf
+sudo touch /etc/ros/dds/cyclonedds.xml
+sudo touch /etc/ros/dds/service-environment.conf
 ```
 
 使用vim或者gedit编辑配置文件，xml配置如下
