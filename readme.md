@@ -18,5 +18,5 @@
 ## [APT仓库设置](97-guide/apt/APT仓库设置.md)
 ## [ROS2常用配置](97-guide/ROS2/ROS2常用配置.md)
 ## [深度强化学习学习记录](https://gitea.hunters-tech.com/HuntersRobotics/RL_lessons)
-
+## [AI Hunter系统镜像制作](https://gitea.hunters-tech.com/HuntersRobotics/orangepi-build)
 
