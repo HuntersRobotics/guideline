@@ -17,6 +17,11 @@
 ## [在Linux上使用Docker安装Windows](97-guide/Windows%20Setup%20On%20Linux/在Linux上使用Docker安装Windows.md)
 ## [ROS2常用配置](97-guide/ROS2/ROS2常用配置.md)
 ## [深度强化学习学习记录](http://172.20.10.79:3000/HuntersRobotics/RL_lessons)
+
+## [AI Hunter PCB设计资料](http://172.20.10.79:3000/HuntersRobotics/ai_hunter_controller)
+
 ## [AI Hunter系统镜像制作](http://172.20.10.79:3000/HuntersRobotics/orangepi-build)
+
+## [AI Hunter 操作指导手册](http://172.20.10.79:3000/HuntersRobotics/ai_hunter_guideline.git)
 ## [SLAM代码仓库和配置相关](http://172.20.10.79:3000/AutoVehicles/hunter_slam)
 
